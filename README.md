@@ -24,16 +24,7 @@ This bot provides a seamless way to track the matches of your favorite League of
 - **Detailed Match History**: The updated message title links to the detailed match history page on DeepLoL.
 - **Robust & Reliable**: Built with asynchronous processing to handle API communications without blocking the bot. Player and match data are stored persistently.
 
-### 🔧 Setup Guide
-
-#### For Server Admins (Quick Start)
-
-1.  **Invite the Bot**: Click [HERE] to invite the bot to your Discord server. (注意: この部分は、あなたがボットをホストする場合の招待リンクに置き換えてください).
-2.  **Register a Player**: In the channel where you want to receive notifications, use the `/summonerset` command.
-    -   Example: `/summonerset riot_id: Faker#KR1 region: KR`
-3.  That's it! The bot will now monitor the player and send notifications to that channel.
-
-#### For Developers (Self-Hosting)
+#### 🔧 Setup Guide
 
 1.  **Prerequisites**:
     -   Python 3.10 or higher
@@ -108,16 +99,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **詳細な戦績**: 更新後のメッセージは、DeepLoLの詳細な試合履歴ページにリンクします。
 - **堅牢・高信頼性**: API通信などは非同期で処理されるため、ボットの応答が遅延しません。プレイヤーや試合のデータは永続的に保存されます。
 
-### 🔧 セットアップガイド
-
-#### サーバー管理者向け (クイックスタート)
-
-1.  **ボットを招待**: [ここをクリック]して、あなたのDiscordサーバーにボットを招待します。(注意: この部分は、あなたがボットをホストする場合の招待リンクに置き換えてください).
-2.  **プレイヤーを登録**: 通知を受け取りたいチャンネルで、`/summonerset` コマンドを実行します。
-    -   例: `/summonerset riot_id: Faker#KR1 region: KR`
-3.  これだけです！ボットがプレイヤーの監視を開始し、このチャンネルに通知を送るようになります。
-
-#### 開発者向け (セルフホスト)
+#### 🔧 セットアップガイド
 
 1.  **必要なもの**:
     -   Python 3.10 以上
