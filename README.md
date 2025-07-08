@@ -33,8 +33,8 @@ This bot provides a seamless way to track the matches of your favorite League of
 
 2.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/[Your-GitHub-Username]/[Your-Project-Name].git
-    cd [Your-Project-Name]
+    git clone https://github.com/KamiGamix/Rift_Watcher.git
+    cd https://github.com/KamiGamix/Rift_Watcher.git
     ```
 
 3.  **Install Dependencies**:
@@ -108,8 +108,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 2.  **リポジトリをクローン**:
     ```bash
-    git clone https://github.com/[あなたのGitHubユーザー名]/[あなたのプロジェクト名].git
-    cd [あなたのプロジェクト名]
+    git clone https://github.com/KamiGamix/Rift_Watcher.git
+    cd https://github.com/KamiGamix/Rift_Watcher.git
     ```
 
 3.  **依存ライブラリをインストール**:
