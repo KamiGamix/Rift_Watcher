@@ -1,0 +1,20 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Environment variables
+.env
+
+# Database file
+db.json
+
+# IDE settings
+.idea/
+.vscode/
