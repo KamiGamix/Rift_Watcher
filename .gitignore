@@ -1,9 +1,0 @@
-# Discord/Riotの認証情報をGitの追跡から除外
-.env
-
-# データベースファイルをGitの追跡から除外
-db.json
-
-# Pythonのキャッシュファイルなどを除外
-__pycache__/
-*.pyc
