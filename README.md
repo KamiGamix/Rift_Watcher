@@ -1,5 +1,5 @@
 # Rift Watcher
-![image](https://github.com/user-attachments/assets/9fb6079e-9ef6-40c4-9557-890b51db5c5e)
+![image](example.png)
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -63,7 +63,7 @@ This bot provides a seamless way to track the matches of your favorite League of
 
 5.  **Run the Bot**:
     ```bash
-    python main.py
+    python Python/main.py
     ```
     The bot should now be online and ready to accept commands.
 
