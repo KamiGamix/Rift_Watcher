@@ -138,7 +138,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 5.  **ボットを起動**:
     ```bash
-    python main.py
+    python Python/main.py
     ```
     ボットがオンラインになり、コマンドを受け付けられる状態になります。
 
